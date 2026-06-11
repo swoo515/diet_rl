@@ -1,0 +1,89 @@
+{
+  "weekly_diet": {
+    "월": {
+      "아침": "almond paste",
+      "점심": "pork carcass raw",
+      "저녁": "catjang cowpeas raw"
+    },
+    "화": {
+      "아침": "catjang cowpeas raw",
+      "점심": "almond paste",
+      "저녁": "dill weed dried"
+    },
+    "수": {
+      "아침": "potato chips fat free",
+      "점심": "cheese croissant",
+      "저녁": "almond paste"
+    },
+    "목": {
+      "아침": "potato chips fat free",
+      "점심": "dill weed dried",
+      "저녁": "dill weed dried"
+    },
+    "금": {
+      "아침": "potato chips fat free",
+      "점심": "potato chips fat free",
+      "저녁": "yardlong beans raw"
+    },
+    "토": {
+      "아침": "dill weed dried",
+      "점심": "crispy chicken breast kentucky fried chicken",
+      "저녁": "crispy chicken breast kentucky fried chicken"
+    },
+    "일": {
+      "아침": "dill weed dried",
+      "점심": "yardlong beans raw",
+      "저녁": "barley flour"
+    }
+  },
+  "weekly_nutrition": {
+    "월": {
+      "calories": 3319.0,
+      "carbohydrates": 208.1,
+      "protein": 123.3,
+      "fat": 225.6
+    },
+    "화": {
+      "calories": 1866.0,
+      "carbohydrates": 263.9,
+      "protein": 80.19999999999999,
+      "fat": 70.9
+    },
+    "수": {
+      "calories": 2231.0,
+      "carbohydrates": 336.2,
+      "protein": 49.699999999999996,
+      "fat": 81.1
+    },
+    "목": {
+      "calories": 1366.0,
+      "carbohydrates": 301.7,
+      "protein": 61.9,
+      "fat": 10.200000000000001
+    },
+    "금": {
+      "calories": 2299.0,
+      "carbohydrates": 483.6,
+      "protein": 84.4,
+      "fat": 5.0
+    },
+    "토": {
+      "calories": 681.0,
+      "carbohydrates": 56.599999999999994,
+      "protein": 96.4,
+      "fat": 17.8
+    },
+    "일": {
+      "calories": 1343.0,
+      "carbohydrates": 269.5,
+      "protein": 76.1,
+      "fat": 9.0
+    }
+  },
+  "totals": {
+    "calories": 13105.0,
+    "carbohydrates": 1919.6,
+    "protein": 572.0,
+    "fat": 419.6
+  }
+}

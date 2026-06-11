@@ -1,0 +1,15 @@
+{
+  "model": "results/dqn_model.pt",
+  "max_foods": 500,
+  "n_eval": 100,
+  "comparison": {
+    "dqn": {
+      "mean": 26.6737879120879,
+      "std": 3.552713678800501e-15
+    },
+    "random": {
+      "mean": -56.98327929047619,
+      "std": 8.935728701299315
+    }
+  }
+}
